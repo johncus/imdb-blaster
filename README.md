@@ -1,3 +1,5 @@
+A Simple update
+
 # Introduction
 
 IMDB does not provide a free API to search their data. You may come across some IMDB API's, but they resort to screen scraping techniques [here](http://www.deanclatworthy.com/imdb/),  [here](<http://imdbapi.poromenos.org/) and [here](<http://code.google.com/p/imdb-api/).  The good news is that IMDB does provide their [data](http://www.imdb.com/interfaces) in flat text files released every Friday.  The bad news is that these files are formatted just to be difficult to use.  Love this [question](http://www.reddit.com/r/programming/comments/6m33s/why\_does\_imdb\_restrain\_an\_official\_api\_but).  Thanks IMDB!
